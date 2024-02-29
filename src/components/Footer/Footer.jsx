@@ -45,13 +45,13 @@ const Footer = () => {
                 personal
               </h2>
               <ul className="my-3">
-                <li className="capitalize mb-2 mb-2">account opening</li>
-                <li className="capitalize mb-2 mb-2">savings</li>
-                <li className="capitalize mb-2 mb-2">bills payments</li>
-                <li className="capitalize mb-2 mb-2">expenses tracker</li>
-                <li className="capitalize mb-2 mb-2">loans</li>
-                <li className="capitalize mb-2 mb-2">investment</li>
-                <li className="capitalize mb-2 mb-2">buy now pay later</li>
+                <li className="capitalize mb-2">account opening</li>
+                <li className="capitalize mb-2 ">savings</li>
+                <li className="capitalize mb-2">bills payments</li>
+                <li className="capitalize mb-2">expenses tracker</li>
+                <li className="capitalize mb-2">loans</li>
+                <li className="capitalize mb-2">investment</li>
+                <li className="capitalize mb-2">buy now pay later</li>
               </ul>
             </div>
             <div className="mb-8 md:mb-0">

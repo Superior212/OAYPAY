@@ -6,13 +6,13 @@ import MemoMoney from "../../icons/Money";
 
 export const WhyChooseUs = () => {
   return (
-    <div
-      className="bg-[#0F322E] py-5"
-      data-aos="fade-down"
-      data-aos-easing="linear"
-      data-aos-duration="1500">
+    <div className="bg-[#0F322E] py-5">
       <main className="text-white hsection">
-        <div className=" py-9">
+        <div
+          className=" py-9"
+          data-aos="fade-down"
+          data-aos-easing="linear"
+          data-aos-duration="1500">
           <h2 className="text-[#C8F069] mb-3 ">Why choose us?</h2>
           <h1 className="font-[500] text-[2.2rem] md:w-[28rem] mb-4">
             Access your financial services all in one app

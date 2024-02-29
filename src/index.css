@@ -3,11 +3,16 @@
 @tailwind utilities;
 
 body {
-  background-image: linear-gradient(to right, #1b544e 10%, #066829e0 88%);
+  /* background-image: linear-gradient(to right, #1b544e 10%, #066829e0 88%); */
+  /* background-image: linear-gradient(
+    180deg,
+    #1b544e 0%,
+    #043f2d 45.5%,
+    #043f2d 100%
+  ); */
 }
 
 /* bg-gradient-to-r from-[#1B544E] via-[#043F2D] to-[#043F2D]" */
-
 
 @layer components {
   .hsection {
