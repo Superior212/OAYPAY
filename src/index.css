@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-image: linear-gradient(to right, #1b544e 10%, #066829e0 88%);
+}
+
+/* bg-gradient-to-r from-[#1B544E] via-[#043F2D] to-[#043F2D]" */
+
+
+@layer components {
+  .hsection {
+    @apply px-5 py-2 max-w-[80rem] mx-auto;
+  }
+}
